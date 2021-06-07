@@ -1,0 +1,99 @@
+.reg11{
+    margin-left: 700px;
+    margin-top: -400px;
+    height: 800px;
+    width: 5px;
+    border-radius: 20px;
+   }
+#reg{
+    margin-left: 180px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#23463f;
+}
+.para
+{
+    margin-left: 14px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.regbtn
+{
+    margin-left: 350px;
+    
+
+}
+.signin
+{
+    margin-left: 25px;
+}
+.regstr1
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+.regstr2
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+.regstr3
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+.regstr4
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+.regstr5
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+.regstr6
+{
+    width: 400px;
+    margin-left: 60px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: #6abadeba;
+    border-top: #6abadeba;
+    border-left: #6abadeba;
+}
+
+.lbl
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 20px;
+    
+}
